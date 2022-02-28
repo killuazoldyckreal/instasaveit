@@ -47,18 +47,15 @@ async def account(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/killua_zoldycks'),
+						InlineKeyboardButton("🤖GitHub Profile", url="https://github.com/killuazoldyckreal")
                         
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://github.com/killuazoldyckreal/instasaveit")
                     ],
                     [
-                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Greymatter_bots")
-
+                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
                     ]
 					
 				]
@@ -129,18 +126,15 @@ async def _insta_post_batch(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/killua_zoldycks'),
+						InlineKeyboardButton("🤖GitHub Profile", url="https://github.com/killuazoldyckreal")
                         
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://github.com/killuazoldyckreal/instasaveit")
                     ],
                     [
-                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Greymatter_bots")
-
+                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
                     ]
 					
 				]
