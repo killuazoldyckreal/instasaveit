@@ -11,8 +11,7 @@ License -> https://github.com/subinps/Instagram-Bot/blob/main/LICENSE
 
 !!CREDITS!!
 Mr.SUBIN (samantha ruth prabhu's biggest fan🙄)
-original Repo
-https://github.com/subinps/Instagram-Bot
+[original Repo](https://github.com/subinps/Instagram-Bot)
 
 You can Download almost anything From your Instagram Account.
 
