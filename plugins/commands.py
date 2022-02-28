@@ -43,17 +43,14 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/killua_zoldycks'),
+						InlineKeyboardButton("🤖GitHub Profile", url="https://github.com/killuazoldyckreal")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://github.com/killuazoldyckreal/instasaveit")
                     ],
                     [
-                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/GreyMatter_bots")
-
+                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
                     ]
 					
 				]
@@ -66,16 +63,14 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/killua_zoldycks'),
+						InlineKeyboardButton("🤖GitHub Profile", url="https://github.com/killuazoldyckreal")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://github.com/killuazoldyckreal/instasaveit")
                     ],
                     [
-                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/GreyMatter_bots")
-
+                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
                     ]
 					
 				]
@@ -91,14 +86,12 @@ async def help(bot, cmd):
 		reply_markup=InlineKeyboardMarkup(
 			[
 				[
-					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-					InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1"),
-					InlineKeyboardButton("⚙️Update Channel", url="https://t.me/GreyMatter_bots")
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/killua_zoldycks'),
+					InlineKeyboardButton("🤖GitHub Profile", url="https://github.com/killuazoldyckreal")
 					
 				],
 				[
-					InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
+					InlineKeyboardButton("🔗Source Code", url="https://github.com/killuazoldyckreal/instasaveit")
 				]
 			]
 			)
@@ -111,22 +104,16 @@ async def stop(bot, cmd):
 			HOME_TEXT.format(cmd.from_user.first_name, cmd.from_user.id, USER, USER, USER, OWNER), 
 			disable_web_page_preview=True,
 			reply_markup=InlineKeyboardMarkup(
+			[
 				[
-					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1")
-					],
-                    [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
-                    ],
-                    [
-                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Greymatter_bots")
-
-                    ]
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/killua_zoldycks'),
+					InlineKeyboardButton("🤖GitHub Profile", url="https://github.com/killuazoldyckreal")
 					
+				],
+				[
+					InlineKeyboardButton("🔗Source Code", url="https://github.com/killuazoldyckreal/instasaveit")
 				]
+			]
 			)
 		)
 		return
