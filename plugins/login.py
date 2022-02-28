@@ -45,12 +45,11 @@ async def login(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/killua_zoldycks'),
+						InlineKeyboardButton("🤖GitHub Profile", url="https://github.com/killuazoldyckreal")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://github.com/killuazoldyckreal/instasaveit")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
@@ -173,12 +172,11 @@ async def logout(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/killuazoldycks'),
+						InlineKeyboardButton("🤖GitHub Profile", url="https://github.com/killuazoldyckreal")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://github.com/killuazoldyckreal/instasaveit")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
