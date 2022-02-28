@@ -43,8 +43,7 @@ Just send any instagram username.
 
 For Example:
 <code>samantharuthprabhuoffl</code>
-<code>subin_p_s_</code>
-<code>_chill_manh_7</code>
+<code>og.killuazoldycks</code>
 
 
 2. From URL:
@@ -52,7 +51,7 @@ For Example:
 You can also sent a post link to download the post or video.
 
 For Example:
-<code>https://www.instagram.com/p/CL4QbUiLRNW/?utm_medium=copy_link</code>
+<code>https://www.instagram.com/tv/CaPl-7dp4Rd/?utm_source=ig_web_copy_link</code>
 <code>https://www.instagram.com/taylorswift/p/CWds7zapgHn/?utm_medium=copy_link</code>
 
 
@@ -66,7 +65,7 @@ For Example:
 /account - Shows the details of logged in account.
 
 /posts <username> - Download posts of any username. Use /posts to download own posts or <code> /posts <username> </code>for others.
-Example : <code>/posts samantharuthprabhuoffl</code>
+Example : <code>/posts og.killuazoldycks</code>
 
 /igtv <username> - Download IGTV videos from given username. If no username given, downloads your IGTV.
 
