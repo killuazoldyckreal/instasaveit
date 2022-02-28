@@ -12,23 +12,24 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": ""
+        "value": "
+2379927"
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": ""
+        "value": "90f214aaf2c70feab291c1feff2fd9e9"
       },
       "BOT_TOKEN": {
         "description": "Your bot token from @BotFather",
-        "value": ""
+        "value": "5147269697:AAH0pg8u36X2LrrQkBtI-nmBsE5sdyN5eyc"
       },
       "OWNER_ID": {
         "description": "Enter Your Telegram id",
-        "value": ""
+        "value": "1737813520"
       },
       "INSTAGRAM_USERNAME": {
         "description": "Enter your Instagram Username without @ , Example: samantharuthprabhuoffl",
-        "value": ""
+        "value": "og.killuazoldyck"
       },
       "INSTA_SESSIONFILE_ID": {
         "description": "Read README in GitHub",
