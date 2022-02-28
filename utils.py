@@ -192,12 +192,11 @@ async def upload(m, bot, chat_id, dir):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-					InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1")
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/killua_zoldycks'),
+					InlineKeyboardButton("🤖GitHub Profile", url="https://github.com/killuazoldyckreal")
 				],
 				[
-					InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-                    InlineKeyboardButton("⚡️Update Channel", url="https://t.me/Greymatter_bots")
+					InlineKeyboardButton("🔗Source Code", url="https://github.com/killuazoldyckreal/instasaveit")
 				]
 			]
 			)
